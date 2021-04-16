@@ -1,1 +1,3 @@
 # oymasapp
+
+# Leer archivo LICENSE
